@@ -18,4 +18,4 @@ Ich würde das mit einem Raspberry PI lösen und noch einem Sensor (von Raspberr
 -Raspberry PI <br>
 -Raspberry PI Sensor<br>
 -Raspberry PI Lautsprecher<br>
--
+-Flutter für die App
